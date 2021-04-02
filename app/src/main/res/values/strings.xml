@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tasks Me</string>
+    <string name="task_title">Your Tasks List</string>
+
+    <string name="btn_done">Done</string>
+    <string name="edit_title">Task to do</string>
+
+    <string name="empty_notes">Once you add some tasks\nyou will find it here</string>
+
+    <string name="pwd_title">Enter password</string>
+    <string name="error_pwd">Incorrect password</string>
+    <string name="clear">Clear 0 completed item</string>
+
+</resources>
